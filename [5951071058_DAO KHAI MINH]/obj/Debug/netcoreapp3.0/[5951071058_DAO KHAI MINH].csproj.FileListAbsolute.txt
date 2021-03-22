@@ -1,0 +1,34 @@
+C:\Users\titeo\source\repos\[5951071058_DAO KHAI MINH]\[5951071058_DAO KHAI MINH]\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\titeo\source\repos\[5951071058_DAO KHAI MINH]\[5951071058_DAO KHAI MINH]\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\titeo\source\repos\[5951071058_DAO KHAI MINH]\[5951071058_DAO KHAI MINH]\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\titeo\source\repos\[5951071058_DAO KHAI MINH]\[5951071058_DAO KHAI MINH]\bin\Debug\netcoreapp3.0\[5951071058_DAO KHAI MINH].exe
+C:\Users\titeo\source\repos\[5951071058_DAO KHAI MINH]\[5951071058_DAO KHAI MINH]\bin\Debug\netcoreapp3.0\[5951071058_DAO KHAI MINH].deps.json
+C:\Users\titeo\source\repos\[5951071058_DAO KHAI MINH]\[5951071058_DAO KHAI MINH]\bin\Debug\netcoreapp3.0\[5951071058_DAO KHAI MINH].runtimeconfig.json
+C:\Users\titeo\source\repos\[5951071058_DAO KHAI MINH]\[5951071058_DAO KHAI MINH]\bin\Debug\netcoreapp3.0\[5951071058_DAO KHAI MINH].runtimeconfig.dev.json
+C:\Users\titeo\source\repos\[5951071058_DAO KHAI MINH]\[5951071058_DAO KHAI MINH]\bin\Debug\netcoreapp3.0\[5951071058_DAO KHAI MINH].dll
+C:\Users\titeo\source\repos\[5951071058_DAO KHAI MINH]\[5951071058_DAO KHAI MINH]\bin\Debug\netcoreapp3.0\[5951071058_DAO KHAI MINH].pdb
+C:\Users\titeo\source\repos\[5951071058_DAO KHAI MINH]\[5951071058_DAO KHAI MINH]\bin\Debug\netcoreapp3.0\[5951071058_DAO KHAI MINH].Views.dll
+C:\Users\titeo\source\repos\[5951071058_DAO KHAI MINH]\[5951071058_DAO KHAI MINH]\bin\Debug\netcoreapp3.0\[5951071058_DAO KHAI MINH].Views.pdb
+C:\Users\titeo\source\repos\[5951071058_DAO KHAI MINH]\[5951071058_DAO KHAI MINH]\obj\Debug\netcoreapp3.0\[5951071058_DAO KHAI MINH].csprojAssemblyReference.cache
+C:\Users\titeo\source\repos\[5951071058_DAO KHAI MINH]\[5951071058_DAO KHAI MINH]\obj\Debug\netcoreapp3.0\staticwebassets\[5951071058_DAO KHAI MINH].StaticWebAssets.Manifest.cache
+C:\Users\titeo\source\repos\[5951071058_DAO KHAI MINH]\[5951071058_DAO KHAI MINH]\obj\Debug\netcoreapp3.0\staticwebassets\[5951071058_DAO KHAI MINH].StaticWebAssets.xml
+C:\Users\titeo\source\repos\[5951071058_DAO KHAI MINH]\[5951071058_DAO KHAI MINH]\obj\Debug\netcoreapp3.0\[5951071058_DAO KHAI MINH].RazorAssemblyInfo.cache
+C:\Users\titeo\source\repos\[5951071058_DAO KHAI MINH]\[5951071058_DAO KHAI MINH]\obj\Debug\netcoreapp3.0\[5951071058_DAO KHAI MINH].RazorAssemblyInfo.cs
+C:\Users\titeo\source\repos\[5951071058_DAO KHAI MINH]\[5951071058_DAO KHAI MINH]\obj\Debug\netcoreapp3.0\[5951071058_DAO KHAI MINH].AssemblyInfoInputs.cache
+C:\Users\titeo\source\repos\[5951071058_DAO KHAI MINH]\[5951071058_DAO KHAI MINH]\obj\Debug\netcoreapp3.0\[5951071058_DAO KHAI MINH].AssemblyInfo.cs
+C:\Users\titeo\source\repos\[5951071058_DAO KHAI MINH]\[5951071058_DAO KHAI MINH]\obj\Debug\netcoreapp3.0\[5951071058_DAO KHAI MINH].TagHelpers.input.cache
+C:\Users\titeo\source\repos\[5951071058_DAO KHAI MINH]\[5951071058_DAO KHAI MINH]\obj\Debug\netcoreapp3.0\[5951071058_DAO KHAI MINH].TagHelpers.output.cache
+C:\Users\titeo\source\repos\[5951071058_DAO KHAI MINH]\[5951071058_DAO KHAI MINH]\obj\Debug\netcoreapp3.0\[5951071058_DAO KHAI MINH].RazorCoreGenerate.cache
+C:\Users\titeo\source\repos\[5951071058_DAO KHAI MINH]\[5951071058_DAO KHAI MINH]\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\titeo\source\repos\[5951071058_DAO KHAI MINH]\[5951071058_DAO KHAI MINH]\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\titeo\source\repos\[5951071058_DAO KHAI MINH]\[5951071058_DAO KHAI MINH]\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\titeo\source\repos\[5951071058_DAO KHAI MINH]\[5951071058_DAO KHAI MINH]\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\titeo\source\repos\[5951071058_DAO KHAI MINH]\[5951071058_DAO KHAI MINH]\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\titeo\source\repos\[5951071058_DAO KHAI MINH]\[5951071058_DAO KHAI MINH]\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\titeo\source\repos\[5951071058_DAO KHAI MINH]\[5951071058_DAO KHAI MINH]\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\titeo\source\repos\[5951071058_DAO KHAI MINH]\[5951071058_DAO KHAI MINH]\obj\Debug\netcoreapp3.0\[5951071058_DAO KHAI MINH].RazorTargetAssemblyInfo.cache
+C:\Users\titeo\source\repos\[5951071058_DAO KHAI MINH]\[5951071058_DAO KHAI MINH]\obj\Debug\netcoreapp3.0\[5951071058_DAO KHAI MINH].RazorTargetAssemblyInfo.cs
+C:\Users\titeo\source\repos\[5951071058_DAO KHAI MINH]\[5951071058_DAO KHAI MINH]\obj\Debug\netcoreapp3.0\[5951071058_DAO KHAI MINH].Views.pdb
+C:\Users\titeo\source\repos\[5951071058_DAO KHAI MINH]\[5951071058_DAO KHAI MINH]\obj\Debug\netcoreapp3.0\[5951071058_DAO KHAI MINH].dll
+C:\Users\titeo\source\repos\[5951071058_DAO KHAI MINH]\[5951071058_DAO KHAI MINH]\obj\Debug\netcoreapp3.0\[5951071058_DAO KHAI MINH].pdb
+C:\Users\titeo\source\repos\[5951071058_DAO KHAI MINH]\[5951071058_DAO KHAI MINH]\obj\Debug\netcoreapp3.0\[5951071058_DAO KHAI MINH].csproj.CopyComplete

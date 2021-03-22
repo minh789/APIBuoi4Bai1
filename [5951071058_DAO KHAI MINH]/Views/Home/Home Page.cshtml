@@ -1,0 +1,37 @@
+﻿@model IEnumerable<_DAO_KHAI_MINH_5951071058_.Models.Employee>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<table class="table">
+    <thread>
+        <tr>
+        <th>Sr No.</th>
+        <th>Employee Name</th>
+        <th>City</th>
+        <th>State</th>
+        <th>Country</th>
+        <th>Department</th>
+        <th>Actions</th>
+        </tr>
+    </thread>
+</table>
+<tbody>
+    @foreach (var item in Model)
+    {
+    <tr>
+        <td>@item.Sr_no</td>
+        <td>@item.Emp_name</td>
+        <td>@item.City</td>
+        <td>@item.State</td>
+        <td>@item.Country</td>
+        <td>@item.Department</td>
+        <td>
+            <a asp-action="Edit" asp-route-id="@item.Sr_no">Edit</a>
+            <a asp-action="Delete" asp-route-id="@item.Sr_no">Delete</a>
+        </td>
+    </tr>
+    }
+</tbody>
+</table>
+
